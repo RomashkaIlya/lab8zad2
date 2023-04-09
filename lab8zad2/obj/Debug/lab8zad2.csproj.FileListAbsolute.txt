@@ -1,0 +1,8 @@
+D:\promapirovanie\lab8zad2\lab8zad2\bin\Debug\lab8zad2.exe.config
+D:\promapirovanie\lab8zad2\lab8zad2\bin\Debug\lab8zad2.exe
+D:\promapirovanie\lab8zad2\lab8zad2\bin\Debug\lab8zad2.pdb
+D:\promapirovanie\lab8zad2\lab8zad2\obj\Debug\lab8zad2.csproj.AssemblyReference.cache
+D:\promapirovanie\lab8zad2\lab8zad2\obj\Debug\lab8zad2.csproj.SuggestedBindingRedirects.cache
+D:\promapirovanie\lab8zad2\lab8zad2\obj\Debug\lab8zad2.csproj.CoreCompileInputs.cache
+D:\promapirovanie\lab8zad2\lab8zad2\obj\Debug\lab8zad2.exe
+D:\promapirovanie\lab8zad2\lab8zad2\obj\Debug\lab8zad2.pdb
